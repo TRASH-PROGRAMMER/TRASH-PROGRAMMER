@@ -7,6 +7,7 @@
 
 🌱 I'm currently learning **WEB Development Full-Stack**
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<p>Estudiante en formación con proyección a desarrollador Full-Stack, enfocado en el diseño y desarrollo de aplicaciones web y de escritorio de alto rendimiento. Apasionado por crear interfaces de usuario eficientes y atractivas, siguiendo estándares de calidad, buenas prácticas y principios de seguridad, escalabilidad, mantenibilidad y robustez para ofrecer soluciones dinámicas y de gran calidad.he desarrollado soluciones con automatizacion de la ia.</p>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
