@@ -43,11 +43,11 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TRASH-PROGRAMMER&theme=tokyonight" />
 </p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
+<p align="right">
+  <img src="https://camo.githubusercontent.com/c0861f9561d8d97dc7748f23e8775fde64675ee732ebe8c6106c818e7b5355a6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313237373331322f73637265656e73686f74732f31343733333239382f6d656469612f33396231303435653539333733373538376464363065343263383432326431662e676966" width="300" />
+</p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
 
 
 <hr width="60%" >
