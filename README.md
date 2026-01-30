@@ -34,7 +34,9 @@
 <hr width="36%" >
 
 <h3>My GitHub Stats</h3>
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TRASH-PROGRAMMER&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TRASH-PROGRAMMER&show_icons=true&theme=radical" />
+</p>
 
 
 <br>
