@@ -35,7 +35,7 @@
 
 <h3>My GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TRASH-PROGRAMMER&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TRASH-PROGRAMMER&show_icons=true&theme=tokyonight" />
 </p>
 
 
