@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anirudh Rai</h1>
-<h3 align="center">Passionate Developer | Data Enthusiast | Lifelong Learner</h3>
+<h1 align="center">Hi 👋, I'm  TRASH PROGRAMER</h1>
+<h3 align="center">Passionate Developer | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
