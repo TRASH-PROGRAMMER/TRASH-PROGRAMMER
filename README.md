@@ -1,5 +1,6 @@
 <div align="center">
-<h1>Hola soy trash-programer</h1>
+<h1>Hola soy Trash-Programmer</h1>
+ 
 <pre>
  💼 Full-stack Developer | Platform Engineer
  💻 System Programming • DevOps 
