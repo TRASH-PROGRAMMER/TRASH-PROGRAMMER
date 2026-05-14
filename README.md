@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hola soy Trash-Programmer</h1>
- 
+<img src="https://github.com/TRASH-PROGRAMMER/TRASH-PROGRAMMER/raw/main/img/Gemini_Generated_Image_q11fv0q11fv0q11f.png" height="190" width="190" style="border-radius: 50%; object-fit: cover;">
 <pre>
  💼 Full-stack Developer | Platform Engineer
  💻 System Programming • DevOps 
